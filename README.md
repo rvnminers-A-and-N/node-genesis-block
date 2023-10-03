@@ -5,7 +5,7 @@
 ## setup
 
 ```js
-git clone https://github.com/nasa8x/node-genesis-block.git genesis-block
+git clone https://github.com/rvnminers-A-and-N/node-genesis-block.git genesis-block
 cd genesis-block
 npm install
 ```
@@ -33,29 +33,7 @@ npm install
 
 ## algorithms
 ----------
-* x11
-* x13
-* x15
-* x16r
-* nist5
-* neoscrypt
-* scrypt
-* keccak
-* quark
-* bcrypt
-* skein
-* groestl
-* groestlmyriad
-* blake
-* fugue
-* qubit
-* hefty1
-* shavite3
-* cryptonight
-* boolberry
-* yescrypt
-* fresh
-
+* MeowPow
 
 ## x11
 
