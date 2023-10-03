@@ -1,7 +1,7 @@
 
 
 var $ = require("./utils");
-var Hash = require('multi-hashing');
+var Hash = require('hashing');
 
 var defaults = {
     //the (unix) time when the genesisblock is created
