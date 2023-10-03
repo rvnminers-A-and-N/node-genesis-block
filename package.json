@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nasa8x/node-genesis-block.git"
+    "url": "git+https://github.com/rvnminers-A-and-N/node-genesis-block.git"
   },
   "keywords": [
     "genesisblock"
   ],
-  "author": "Nasa8x",
+  "author": "rvnminers-A-and-N",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nasa8x/node-genesis-block/issues"
+    "url": "https://github.com/rvnminers-A-and-N/node-genesis-block/issues"
   },
-  "homepage": "https://github.com/nasa8x/node-genesis-block#readme",
+  "homepage": "https://github.com/rvnminers-A-and-N/node-genesis-block#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "multi-hashing": "git+https://github.com/nasa8x/node-multi-hashing.git",
+    "hashing": "git+https://github.com/rvnminers-A-and-N/meowpow-hasher.git",
     "yargs": "^11.1.1"
   }
 }
